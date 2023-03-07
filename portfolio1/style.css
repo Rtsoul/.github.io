@@ -1,0 +1,31 @@
+.top {
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+.top li {
+	display:inline;
+	padding-right: 5px;
+
+}
+.line{
+	border:  3px solid;
+	width: 80%;
+}
+.underline{
+	border: 2px solid;
+	width: 70%;
+}
+
+.row{
+	text-align: r;
+}
+table{
+	text-align: left;
+	margin-left: 15%;
+	font-family: Arial, sans-serif;
+	margin-bottom: 15px;
+}
+td{
+	padding-left: 15px;
+}
+
